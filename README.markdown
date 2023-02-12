@@ -41,10 +41,10 @@ Examples:
       - Include both legal codes in the same file. Add a note at the top clarifying which license applies to which part of your work.
     - Method 2: Separate licenses
       - `LICENSE.markdown`
+      - `LICENSE-summary.markdown`
       - `LICENSE-documentation.markdown`
-      - `LICENSE-summary-software.markdown`
-      - `LICENSE-legal-content.markdown`
-      - `LICENSE-summary-content.markdown`
+      - `LICENSE-content-legal.markdown`
+      - `LICENSE-content-summary.markdown`
 
 ## Contribute
 
