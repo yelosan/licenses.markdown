@@ -50,6 +50,13 @@ Examples:
 
 If you are interested in contributing to this repository, please open a PR.
 
+Our primary repository is at [Codeberg](https://codeberg.org/yelosan/licenses.markdown).
+
+Mirrors/Backup are:
+
+- [GitLab](https://gitlab.com/yelosan/licenses.markdown)
+- [GitHub](https://github.com/yelosan/licenses.markdown)
+
 ### Guidelines
 
 1. The top information should contain the following:
