@@ -10,7 +10,7 @@ Open Data Commons is not a law firm and does not provide legal services of any k
 
 Open Data Commons has no formal relationship with you. Your receipt of this document does not create any kind of agent-client relationship. Please seek the advice of a suitably qualified legal professional licensed to practice in your jurisdiction before using this document.
 
-No warranties and disclaimer of any damages. This information is provided ‘as is‘, and this site makes no warranties on the information provided. Any damages resulting from its use are disclaimed.
+No warranties and disclaimer of any damages. This information is provided 'as is', and this site makes no warranties on the information provided. Any damages resulting from its use are disclaimed.
 
 A [plain language summary](https://opendatacommons.org/licenses/by/summary/) of the Open Database License is available as well as a [plain text version](https://opendatacommons.org/licenses/by/odc_by_1.0_public_text.txt).
 
@@ -44,7 +44,7 @@ agree as follows:
 
 "Database Directive" - Means Directive 96/9/EC of the European Parliament and of the Council of 11 March 1996 on the legal protection of databases, as amended or succeeded.
 
-"Database Right" - Means rights resulting from the Chapter III (“sui generis”) rights in the Database Directive (as amended and as transposed by member states), which includes the Extraction and Re-utilisation of the whole or a Substantial part of the Contents, as well as any similar rights available in the relevant jurisdiction under Section 10.4.
+"Database Right" - Means rights resulting from the Chapter III ("sui generis") rights in the Database Directive (as amended and as transposed by member states), which includes the Extraction and Re-utilisation of the whole or a Substantial part of the Contents, as well as any similar rights available in the relevant jurisdiction under Section 10.4.
 
 "Derivative Database" - Means a database based upon the Database, and includes any translation, adaptation, arrangement, modification, or any other alteration of the Database or of a Substantial part of the Contents. This includes, but is not limited to, Extracting or Re-utilising the whole or a Substantial part of the Contents in a new Database.
 
@@ -164,7 +164,7 @@ a. Example notice. The following text will satisfy notice under Section 4.3:
 
 > Contains information from DATABASE NAME which is made available under the ODC Attribution License.
 
-DATABASE NAME should be replaced with the name of the Database and a hyperlink to the location of the Database. “ODC Attribution License” should contain a hyperlink to the URI of the text of this License. If hyperlinks are not possible, You should include the plain text of the required URI’s with the above notice.
+DATABASE NAME should be replaced with the name of the Database and a hyperlink to the location of the Database. "ODC Attribution License" should contain a hyperlink to the URI of the text of this License. If hyperlinks are not possible, You should include the plain text of the required URI's with the above notice.
 
 ### 4.4 Licensing of others.
 
@@ -174,7 +174,7 @@ You may not sublicense the Database. Each time You communicate the Database, the
 
 ### 5.1 Moral rights.
 
-This section covers moral rights, including any rights to be identified as the author of the Database or to object to treatment that would otherwise prejudice the author’s honour and reputation, or any other derogatory treatment:
+This section covers moral rights, including any rights to be identified as the author of the Database or to object to treatment that would otherwise prejudice the author's honour and reputation, or any other derogatory treatment:
 
 a. For jurisdictions allowing waiver of moral rights, Licensor waives all moral rights that Licensor may have in the Database to the fullest extent possible by the law of the relevant jurisdiction under Section 10.4;
 
@@ -202,7 +202,7 @@ This License does not affect any rights of lawful users to Extract and Re-utilis
 
 ### 7.1
 
-The Database is licensed by the Licensor “as is” and without any warranty of any kind, either express, implied, or arising by statute, custom, course of dealing, or trade usage. Licensor specifically disclaims any and all implied warranties or conditions of title, non-infringement, accuracy or completeness, the presence or absence of errors, fitness for a particular purpose, merchantability, or otherwise. Some jurisdictions do not allow the exclusion of implied warranties, so this exclusion may not apply to You.
+The Database is licensed by the Licensor "as is" and without any warranty of any kind, either express, implied, or arising by statute, custom, course of dealing, or trade usage. Licensor specifically disclaims any and all implied warranties or conditions of title, non-infringement, accuracy or completeness, the presence or absence of errors, fitness for a particular purpose, merchantability, or otherwise. Some jurisdictions do not allow the exclusion of implied warranties, so this exclusion may not apply to You.
 
 ## 8.0 LIMITATION OF LIABILITY
 
