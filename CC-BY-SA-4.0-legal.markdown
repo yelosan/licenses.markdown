@@ -1,6 +1,6 @@
 # Attribution-ShareAlike 4.0 International (CC-BY-SA-4.0)
 
-(Copied from [Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/legalcode) and converted to markdown on 2022-12-22.)
+(Copied from [Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/legalcode) and converted to markdown on 2022-12-22 (see: [licenses.markdown](https://codeberg.org/yelosan/licenses.markdown)).)
 
 ---
 
@@ -192,4 +192,4 @@ d. Nothing in this Public License constitutes or may be interpreted as a limitat
 
 ---
 
-(Copied from [Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/legalcode) and converted to markdown on 2022-12-22.)
+(Copied from [Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/legalcode) and converted to markdown on 2022-12-22 (see: [licenses.markdown](https://codeberg.org/yelosan/licenses.markdown)).)

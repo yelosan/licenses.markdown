@@ -1,6 +1,6 @@
 # Open Data Commons Open Database License (ODbL) Summary
 
-(Copied from [Open Data Commons Open Database License (ODbL) Summary](https://opendatacommons.org/licenses/odbl/summary/) and converted to markdown on 2022-12-22.)
+(Copied from [Open Data Commons Open Database License (ODbL) Summary](https://opendatacommons.org/licenses/odbl/summary/) and converted to markdown on 2022-12-22 (see: [licenses.markdown](https://codeberg.org/yelosan/licenses.markdown)).)
 
 ---
 
@@ -24,4 +24,4 @@ This is not a license. It is simply a handy reference for understanding the [ODb
 
 ---
 
-(Copied from [Open Data Commons Open Database License (ODbL) Summary](https://opendatacommons.org/licenses/odbl/summary/) and converted to markdown on 2022-12-22.)
+(Copied from [Open Data Commons Open Database License (ODbL) Summary](https://opendatacommons.org/licenses/odbl/summary/) and converted to markdown on 2022-12-22 (see: [licenses.markdown](https://codeberg.org/yelosan/licenses.markdown)).)

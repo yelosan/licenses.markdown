@@ -1,6 +1,6 @@
 # Open Data Commons Open Database License v1.0 (ODbL-1.0)
 
-(Copied from [Open Data Commons Open Database License (ODbL) v1.0](https://opendatacommons.org/licenses/odbl/1-0/) and converted to markdown on 2023-01-06.)
+(Copied from [Open Data Commons Open Database License (ODbL) v1.0](https://opendatacommons.org/licenses/odbl/1-0/) and converted to markdown on 2023-01-06 (see: [licenses.markdown](https://codeberg.org/yelosan/licenses.markdown)).)
 
 ---
 
@@ -310,4 +310,4 @@ This License takes effect in and will be governed by the laws of the relevant ju
 
 ---
 
-(Copied from [Open Data Commons Open Database License (ODbL) v1.0](https://opendatacommons.org/licenses/odbl/1-0/) and converted to markdown on 2023-01-06.)
+(Copied from [Open Data Commons Open Database License (ODbL) v1.0](https://opendatacommons.org/licenses/odbl/1-0/) and converted to markdown on 2023-01-06 (see: [licenses.markdown](https://codeberg.org/yelosan/licenses.markdown)).)

@@ -1,6 +1,6 @@
 # MIT License (MIT)
 
-(Copied from [SPDX](https://spdx.org/licenses/MIT.html) and converted to markdown on 2023-01-06.)
+(Copied from [SPDX](https://spdx.org/licenses/MIT.html) and converted to markdown on 2023-01-06 (see: [licenses.markdown](https://codeberg.org/yelosan/licenses.markdown)).)
 
 ---
 
@@ -14,4 +14,4 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 ---
 
-(Copied from [SPDX](https://spdx.org/licenses/MIT.html) and converted to markdown on 2023-01-06.)
+(Copied from [SPDX](https://spdx.org/licenses/MIT.html) and converted to markdown on 2023-01-06 (see: [licenses.markdown](https://codeberg.org/yelosan/licenses.markdown)).)

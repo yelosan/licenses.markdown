@@ -1,6 +1,6 @@
 # CC0 1.0 Universal (CC0 1.0) Public Domain Dedication
 
-(Copied from [CC0 1.0 Universal (CC0 1.0) Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/) and converted to markdown on 2023-02-12.)
+(Copied from [CC0 1.0 Universal (CC0 1.0) Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/) and converted to markdown on 2023-02-12 (see: [licenses.markdown](https://codeberg.org/yelosan/licenses.markdown)).)
 
 ---
 
@@ -26,4 +26,4 @@ You can copy, modify, distribute and perform the work, even for commercial purpo
 
 ---
 
-(Copied from [CC0 1.0 Universal (CC0 1.0) Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/) and converted to markdown on 2023-02-12.)
+(Copied from [CC0 1.0 Universal (CC0 1.0) Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/) and converted to markdown on 2023-02-12 (see: [licenses.markdown](https://codeberg.org/yelosan/licenses.markdown)).)

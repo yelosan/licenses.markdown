@@ -1,6 +1,6 @@
 # Open Data Commons Attribution License (ODC-By) Summary
 
-(Copied from [Open Data Commons Attribution License (ODC-By) Summary](https://opendatacommons.org/licenses/by/summary/) and converted to markdown on 2023-02-12.)
+(Copied from [Open Data Commons Attribution License (ODC-By) Summary](https://opendatacommons.org/licenses/by/summary/) and converted to markdown on 2023-02-12 (see: [licenses.markdown](https://codeberg.org/yelosan/licenses.markdown)).)
 
 ---
 
@@ -22,4 +22,4 @@ This is not a license. It is simply a handy reference for understanding the [ODC
 
 ---
 
-(Copied from [Open Data Commons Attribution License (ODC-By) Summary](https://opendatacommons.org/licenses/by/summary/) and converted to markdown on 2023-02-12.)
+(Copied from [Open Data Commons Attribution License (ODC-By) Summary](https://opendatacommons.org/licenses/by/summary/) and converted to markdown on 2023-02-12 (see: [licenses.markdown](https://codeberg.org/yelosan/licenses.markdown)).)

@@ -1,6 +1,6 @@
 # CC0 1.0 Universal (CC0-1.0)
 
-(Copied from [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/legalcode) and converted to markdown on 2023-02-12.)
+(Copied from [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/legalcode) and converted to markdown on 2023-02-12 (see: [licenses.markdown](https://codeberg.org/yelosan/licenses.markdown)).)
 
 ---
 
@@ -58,4 +58,4 @@ For these and/or other purposes and motivations, and without any expectation of 
 
 ---
 
-(Copied from [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/legalcode) and converted to markdown on 2023-02-12.)
+(Copied from [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/legalcode) and converted to markdown on 2023-02-12 (see: [licenses.markdown](https://codeberg.org/yelosan/licenses.markdown)).)

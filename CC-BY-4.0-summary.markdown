@@ -1,6 +1,6 @@
 # Attribution 4.0 International (CC BY 4.0)
 
-(Copied from [Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) and converted to markdown on 2023-02-12.)
+(Copied from [Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) and converted to markdown on 2023-02-12 (see: [licenses.markdown](https://codeberg.org/yelosan/licenses.markdown)).)
 
 ---
 
@@ -36,4 +36,4 @@ No warranties are given. The license may not give you all of the permissions nec
 
 ---
 
-(Copied from [Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) and converted to markdown on 2023-02-12.)
+(Copied from [Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) and converted to markdown on 2023-02-12 (see: [licenses.markdown](https://codeberg.org/yelosan/licenses.markdown)).)

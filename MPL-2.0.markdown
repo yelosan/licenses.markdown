@@ -1,6 +1,6 @@
 # Mozilla Public License Version 2.0 (MPL-2.0)
 
-(Copied from [Mozilla Public License Version 2.0](https://www.mozilla.org/MPL/2.0/) and converted to markdown on 2023-01-06.)
+(Copied from [Mozilla Public License Version 2.0](https://www.mozilla.org/MPL/2.0/) and converted to markdown on 2023-01-06 (see: [licenses.markdown](https://codeberg.org/yelosan/licenses.markdown)).)
 
 ---
 
@@ -204,4 +204,4 @@ You may add additional accurate notices of copyright ownership.
 
 ---
 
-(Copied from [Mozilla Public License Version 2.0](https://www.mozilla.org/MPL/2.0/) and converted to markdown on 2023-01-06.)
+(Copied from [Mozilla Public License Version 2.0](https://www.mozilla.org/MPL/2.0/) and converted to markdown on 2023-01-06 (see: [licenses.markdown](https://codeberg.org/yelosan/licenses.markdown)).)

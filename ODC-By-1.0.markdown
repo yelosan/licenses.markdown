@@ -1,6 +1,6 @@
 # Open Data Commons Attribution License (ODC-By) v1.0 (ODC-By-1.0)
 
-(Copied from [Open Data Commons Attribution License (ODC-By) v1.0](https://opendatacommons.org/licenses/by/1-0/) and converted to markdown on 2023-02-12.)
+(Copied from [Open Data Commons Attribution License (ODC-By) v1.0](https://opendatacommons.org/licenses/by/1-0/) and converted to markdown on 2023-02-12 (see: [licenses.markdown](https://codeberg.org/yelosan/licenses.markdown)).)
 
 ---
 
@@ -262,4 +262,4 @@ This License takes effect in and will be governed by the laws of the relevant ju
 
 ---
 
-(Copied from [Open Data Commons Attribution License (ODC-By) v1.0](https://opendatacommons.org/licenses/by/1-0/) and converted to markdown on 2023-02-12.)
+(Copied from [Open Data Commons Attribution License (ODC-By) v1.0](https://opendatacommons.org/licenses/by/1-0/) and converted to markdown on 2023-02-12 (see: [licenses.markdown](https://codeberg.org/yelosan/licenses.markdown)).)

@@ -1,6 +1,6 @@
 # Attribution 4.0 International (CC-BY-4.0)
 
-(Copied from [Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/legalcode) and converted to markdown on 2023-02-12.)
+(Copied from [Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/legalcode) and converted to markdown on 2023-02-12 (see: [licenses.markdown](https://codeberg.org/yelosan/licenses.markdown)).)
 
 ---
 
@@ -178,4 +178,4 @@ d. Nothing in this Public License constitutes or may be interpreted as a limitat
 
 ---
 
-(Copied from [Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/legalcode) and converted to markdown on 2023-02-12.)
+(Copied from [Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/legalcode) and converted to markdown on 2023-02-12 (see: [licenses.markdown](https://codeberg.org/yelosan/licenses.markdown)).)

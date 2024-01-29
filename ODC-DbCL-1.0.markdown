@@ -1,6 +1,6 @@
 # Database Contents License (DbCL) v1.0 (DbCL-1.0)
 
-(Copied from [Database Contents License (DbCL) v1.0](https://opendatacommons.org/licenses/dbcl/1-0/) and converted to markdown on 2023-01-06.)
+(Copied from [Database Contents License (DbCL) v1.0](https://opendatacommons.org/licenses/dbcl/1-0/) and converted to markdown on 2023-01-06 (see: [licenses.markdown](https://codeberg.org/yelosan/licenses.markdown)).)
 
 ---
 
@@ -56,4 +56,4 @@ If liability may not be excluded by law, it is limited to actual and direct fina
 
 ---
 
-(Copied from [Database Contents License (DbCL) v1.0](https://opendatacommons.org/licenses/dbcl/1-0/) and converted to markdown on 2023-01-06.)
+(Copied from [Database Contents License (DbCL) v1.0](https://opendatacommons.org/licenses/dbcl/1-0/) and converted to markdown on 2023-01-06 (see: [licenses.markdown](https://codeberg.org/yelosan/licenses.markdown)).)
