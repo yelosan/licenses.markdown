@@ -4,6 +4,7 @@ Licenses in Markdown format.
 
 These are licenses I regularly use in my projects, in Markdown format.
 
+- 0BSD
 - CC-BY-4.0
 - CC-BY-SA-4.0
 - CC0-1.0
@@ -32,7 +33,7 @@ Examples:
     - Since these files are in Markdown, only use `LICENSE.md` or `LICENSE.markdown`.
     - Traditionally, this file contains the primary license of your repository.
       - If it is software, it contains a software license.
-      - If your repository is for blog articles, images, or music sheets, to mention a few, it should have a license applicable for works of art.
+      - If your repository is for blog articles, images, or music sheets, to mention a few, it should have a license applicable for works of art, like CC licenses.
 1. If you want to include the human-readable version, if any, this is how I do it:
     - For the legal: `LICENSE.md` or `LICENSE.markdown`
     - For the summary: `LICENSE-summary.md` or `LICENSE-summary.markdown`
@@ -64,13 +65,12 @@ Mirrors/Backup are:
     ```markdown
     # Attribution 4.0 International (CC-BY-4.0)
 
-    (Copied from [Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/legalcode) and converted to markdown on 2023-02-12.)
+    (Copied from [Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/legalcode) and converted to markdown on 2023-02-12 (see: [licenses.markdown](https://codeberg.org/yelosan/licenses.markdown)).)
     ```
 
     - The first heading is the actual name of the license.
     - The SPDX license code, if any, should be in parenthesis "()".
-    - A note when it was copied in ISO date notation (YYYY-MM-DD), and a link to the original source.
-      - If there is no available original page, for example, MIT, a link to SPDX will suffice.
+    - A note when it was copied in ISO date notation (YYYY-MM-DD), and a link to the original source (an SPDX link is sufficient).
 
 1. Convert the original text as close as possible.
 
